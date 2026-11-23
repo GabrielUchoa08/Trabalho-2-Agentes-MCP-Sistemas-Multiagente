@@ -5,7 +5,10 @@ reviews, usuários) e **Neo4j** (amizades e quem avaliou quem). Um servidor **MC
 (agente único, roteamento, gerador com verificador) usam o **mesmo modelo** (`qwen3:8b` no Ollama) e são comparados
 em 20 perguntas (60 execuções), com juiz de fronteira (Gemini) e verificação manual.
 
-> **Vídeo (15-20 min):** _colar o link aqui_ · **Integrantes:** _preencher_
+Discentes:
+- Daniel Soares
+- Felipe Augusto
+- Gabriel Uchôa
 
 ## Arquitetura
 
