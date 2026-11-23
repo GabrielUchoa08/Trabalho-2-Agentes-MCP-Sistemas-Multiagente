@@ -1,0 +1,12 @@
+# dados do Yelp NUNCA vão para o repositório (T25)
+Yelp-JSON/
+yelp_dataset/
+dados/recorte/
+*.csv.gz
+__pycache__/
+.ipynb_checkpoints/
+*.log
+.env
+# gerados com dados do Yelp: decidir publicar ou não (P8)
+avaliacao/perguntas.json
+resultados/resultados.csv

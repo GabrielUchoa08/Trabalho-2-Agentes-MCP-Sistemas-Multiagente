@@ -1,0 +1,4 @@
+# ambiente SEPARADO dos agentes (conflito mcp 1.x x 2.x). Fixe as versoes que funcionarem e anote no README.
+fastmcp
+psycopg2-binary
+neo4j>=5.20

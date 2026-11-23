@@ -1,0 +1,12 @@
+langgraph>=0.4,<1.0
+langchain-core
+langchain-ollama>=0.3.4
+langchain-mcp-adapters>=0.1.9
+pydantic>=2
+nest_asyncio
+psutil
+pandas
+matplotlib
+psycopg2-binary
+neo4j>=5.20
+google-genai
